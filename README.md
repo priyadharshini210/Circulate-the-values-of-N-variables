@@ -21,7 +21,7 @@ Using the slicing concept rotate the list
 #Developed by: Priyadharshini P
 #RegisterNumber:23013604
 def circulate():
-    lst=eval(input())
+    lst=eval(input())nnnnn
     n=int(input())
     result=lst[n:]+lst[:n]
     print("After circulating the values are:",result)
